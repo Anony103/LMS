@@ -1,6 +1,5 @@
 import dimeji from './src/assets/Dimeji.webp';
 import tess from './src/assets/tess.webp';
-import ash from './src/assets/ash.webp';
 import ade from './src/assets/ade.webp';
 import cultural from './src/assets/cultural.webp'
 import africa from './src/assets/africa.png'
@@ -139,7 +138,7 @@ export const Courses = [
         },
         {
             id:2,
-            img: ash,
+            img: tess,
             name:"Ashley Jones",
             position:"Tech Lead"
         },
